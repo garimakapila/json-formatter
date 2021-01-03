@@ -1,0 +1,10 @@
+.text-input {
+	width: 70%;
+	resize: none;
+	min-height: 300px;
+	border-radius: 10px;
+	border: none;
+	padding: 20px;
+	outline: none;
+	height: calc(100vh - 318px);
+}

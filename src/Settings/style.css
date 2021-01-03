@@ -1,0 +1,25 @@
+.settings-elements {
+	width: 75%;
+	margin: 0 auto;
+}
+.settings-dropdown {
+	display: inline-block;
+	float: left;
+}
+.format-button {
+	display: inline-block;
+	background-color: white;
+	color: #333;
+	font-weight: bold;
+	padding: 10px 40px;
+	border-radius: 5px;
+	cursor: pointer;
+	float: right;
+	user-select: none;
+}
+.format-button:hover {
+	background-color: #EEE;
+}
+.format-button:active {
+	background-color: white;
+}
