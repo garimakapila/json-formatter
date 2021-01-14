@@ -1,6 +1,8 @@
 .dropdown-container {
 	display: inline-block;
 	cursor: pointer;
+	z-index: 1;
+	position: relative;
 }
 .dropdown-value {
 	width: 200px;

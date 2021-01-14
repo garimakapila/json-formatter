@@ -7,4 +7,6 @@
 	padding: 20px;
 	outline: none;
 	height: calc(100vh - 318px);
+	font-size: 1.1vw;
+	font-family: 'Courier New';
 }
